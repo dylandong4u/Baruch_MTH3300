@@ -8,6 +8,7 @@ r = float(input('Input the value for r: '))
 n = float(input('Input the value for n: '))
 t = float(input('Input the value for t: '))
 
-A = P * (1 + (r / n) ** (n * t))
+A = P * (1 + (r / n)) ** (n * t)
 
 print('A = ', A)
+r / n
