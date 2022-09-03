@@ -3,7 +3,7 @@ a. Create variables called P, r, n and t, which you should assign to be 20, .03,
 b. Write code to print out the corresponding value of A according to the formula.
 """
 
-# I used input function instead of assign the values to the variables
+# I used input function instead of assigning the values to the variables
 P = float(input('Input the value for P: '))
 r = float(input('Input the value for r: '))
 n = float(input('Input the value for n: '))
