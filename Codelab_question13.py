@@ -4,6 +4,7 @@ Write a statement that prints the value of price in the form of 'X dollars and Y
 So, if the value of -price- was 4321, your code would print '43 dollars and 21 cents'.
 """
 
+# In Codelab the value of variable price is already set, but here we use input.
 price = int(input("Input an integer:"))
 
 dollars = price / 100
