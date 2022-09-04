@@ -1,5 +1,7 @@
 permit_type = input("permit type (a/f/p/s):")
 
+# the correct answer is to use permit_type = input() to substitute the line above
+
 if permit_type == "a":
     price = 95
     print("$%i" %price)
