@@ -20,6 +20,7 @@ criteria_2 = 0
 criteria_3 = 0
 criteria_4 = 0
 
+# This for-in loop is actually not necessary
 # Use for-in loop to check whether the triangle is valid
 for i in range (4):
     if l_length >= m_length >= s_length > 0:
