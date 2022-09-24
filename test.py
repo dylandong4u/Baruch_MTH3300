@@ -23,4 +23,4 @@ def new_input():
 			print('Output: ', random.randrange(num1, num2))
 
 				
-new_input(k
+new_input()
