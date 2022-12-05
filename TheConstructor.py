@@ -1,8 +1,8 @@
 class TTTBoard:
 
 	_board = [['', '', ''],
-			  ['', '', ''],
-			  ['', '', '']]
+		  ['', '', ''],
+		  ['', '', '']]
 
 	def __init__(self):
 		for idx_row in range(len(self._board)):
@@ -18,8 +18,8 @@ class TTTBoard:
 	
 	def __init__(self):
 		self._board = [[' ', ' ', ' '],
-					   [' ', ' ', ' '],
-					   [' ', ' ', ' ']]
+			       [' ', ' ', ' '],
+			       [' ', ' ', ' ']]
 '''
 # then I use win_for() method 
 
